@@ -19,6 +19,14 @@ html, body {
 	text-align: left;
 }
 
+#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+
 body {
   font-family: 'Lato', sans-serif;
   background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-3/background.jpg');
