@@ -25,7 +25,9 @@ html, body {
 	border: 0;
 	box-shadow: 0;
 	display: inline;
-	justify-content: center;
+	margin-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
 }
 
 body {
