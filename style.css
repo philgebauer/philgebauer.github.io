@@ -14,7 +14,7 @@ html, body {
 	padding: 10px 150px 10px 150px;
 
 	border-radius: 15px;
-	background-color: #FFF;
+	background-color: #D3D3D3;
 
 	text-align: left;
 }
@@ -43,7 +43,7 @@ img {
 }
 
 .page-description {
-  border: 1px solid #000;
+  border: 1px solid #D3D3D3;
   text-align: center;
 }
 
