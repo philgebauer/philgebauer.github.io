@@ -13,6 +13,7 @@ p {
 
 .edina{
       color:black;
+      text-align:center;
 }
 
   .margin {
@@ -48,8 +49,9 @@ p {
     padding-top: 200px;
 }
 
-.edina {
+#edina {
     padding-bottom: 15px;
+    text-color:black;
 
   .container-fluid {
       padding-top: 70px;
