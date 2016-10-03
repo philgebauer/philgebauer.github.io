@@ -31,12 +31,12 @@ p {
 
 
   .bg-1 {
-      background-color: #1abc9c; /* Green */
+      background-color: #57F8FF
       color: #ffffff;
      
   }
   .bg-2 {
-      background-color: #474e5d; /* Dark Blue */
+      background-color: #64A1FF
       color: #ffffff;
   }
   .bg-3 {
@@ -44,7 +44,7 @@ p {
       color: #555555;
   }
   .bg-4 {
-      background-color: #2f2f2f; /* Black Gray */
+      background-color: #50B7E8
       color: #fff;
   }
 
